@@ -1,9 +1,7 @@
 # Containers_ACBr-2024-02
-Materiais de apoio para a talk que realizei para a comunidade ACBr no dia 05/02/2025.
+Materiais de apoio sobre Containers para a talk que realizei para a comunidade ACBr no dia 05/02/2025.
 
-Conteúdos sobre OpenTelemetry + Grafana de apresentação realizada durante a edição de Agosto-2024 do DevOps Experience.
-
-Título da apresentação: **Observabilidade e Monitoramento de Aplicações com OpenTelemetry + stack Grafana**
+Título da apresentação: **Entendendo o que são e trabalhando com containers**
 
 Data: **04/02/2025 (terça-feira)**
 
@@ -11,11 +9,13 @@ Tipo do evento: **Online**
 
 Ferramenta de transmissão: **Discord**
 
-Tecnologias utilizadas: **Grafana, OpenTelemetry, Docker, Docker Compose, Linux, Grafana Tempo, Loki, Prometheus, PostgreSQL, MySQL, .NET, ASP.NET Core**
+Tecnologias utilizadas: **Docker, Docker Compose, Linux, Kubernetes, OpenTelemetry, Jaeger, Grafana, PostgreSQL, MySQL, .NET, ASP.NET Core, Java, Node.js, Python...**
 
 Número de participantes: **96 pessoas (pico de audiência ao longo da live)**
 
 Link do evento: [**Instagram**](https://www.instagram.com/p/DFn3rXnTF3X/)
+
+Gravação da talk: [**Spotify**](https://open.spotify.com/episode/5OVA7T51jx8SPOBguUFUAS?si=01356a7c995643d3)
 
 Deixo aqui meus agradecimentos ao amigo **Alexandre de Paula** pelo convite, ao **Diego Folieni** que foi o host do evento e à **Aline Martins** por todo o apoio para que eu partipasse como palestrante de mais uma edição do **DevOps Experience**.
 
