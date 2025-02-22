@@ -1,5 +1,5 @@
 # Containers_ACBr-2024-02
-Materiais de apoio sobre Containers para a talk que realizei para a comunidade ACBr no dia 04/02/2025.
+Materiais de apoio sobre Containers para a talk que realizei para a comunidade ACBr no dia **04/02/2025**, em mais uma edição do evento **Papo Pro ACBr**.
 
 Título da apresentação: **Entendendo o que são e trabalhando com containers**
 
@@ -9,7 +9,7 @@ Tipo do evento: **Online**
 
 Ferramenta de transmissão: **Discord**
 
-Tecnologias utilizadas: **Docker, Docker Compose, Linux, Kubernetes, OpenTelemetry, Jaeger, Grafana, PostgreSQL, MySQL, .NET, ASP.NET Core, Java, Node.js, Python...**
+Tecnologias utilizadas: **Docker, Docker Compose, Linux, Kubernetes, Azure App Service, Azure VMs, Azure Containers Instances, Azure Kubernets Service, Azure Container Apps, OpenTelemetry, Jaeger, Grafana, PostgreSQL, MySQL, .NET, ASP.NET Core, Java, Node.js, Python...**
 
 Número de participantes: **96 pessoas (pico de audiência ao longo da live)**
 
@@ -19,17 +19,9 @@ Gravação da talk: [**Spotify**](https://open.spotify.com/episode/5OVA7T51jx8SP
 
 Deixo aqui meus agradecimentos ao amigo **Alexandre de Paula** pelo convite, ao **Diego Folieni** que foi o host do evento e às dezenas de membros da comunidade **Projeto ACBr** que acompanharam o evento durante uma manhã de terça-feira (04/02/2025).
 
-![alt](img/audiencia.png)
-
-![alt](img/g-12.png)
-
-![alt](img/g-17.png)
-
-![alt](img/divulgacao.png)
-
-Outros prints podem ser encontrados neste [**diretório**](/img/).
-
 ---
+
+A seguir estão prints da apresentação.
 
 ![Audiência](img/audiencia.png)
 
